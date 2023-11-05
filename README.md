@@ -1,1 +1,3 @@
-# teste de utilização de Versonamento
+# teste de utilização de Versonament
+
+*uso do comando restore
